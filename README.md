@@ -8,7 +8,7 @@ The Disable Comment URL plugin removes the URL field from the WordPress comment 
 
 ## Installation
 
-1. Download the plugin zip file from the [releases page](https://github.com/yourusername/disable-comment-url/releases).
+1. Download the plugin zip file from the [releases page](https://github.com/DwennK/wordpress-disable-comment-url/releases).
 2. Log in to your WordPress admin panel.
 3. Navigate to `Plugins > Add New`.
 4. Click on the `Upload Plugin` button and upload the `disable-comment-url.zip` file.
